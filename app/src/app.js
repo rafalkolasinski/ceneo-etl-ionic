@@ -33,6 +33,8 @@ angular.module('CeneoETL', [
 
 }])
 
+    // configuration and routing
+
 .config([
   '$httpProvider',
   '$stateProvider',
