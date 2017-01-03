@@ -3,7 +3,7 @@ Hybrid desktop/mobile app based on Ionic/AngularJS 1.x framework that lets the u
 
 ### Application is available under URL:
 * `http://ceneoetl.rafalkolasinski.usermd.net/`
-* Current release: `1.0.0`
+* Current release: `1.0.1`
 
 ### Running the application locally requires these steps:
 * Clone the repository
